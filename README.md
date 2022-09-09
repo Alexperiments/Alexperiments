@@ -13,9 +13,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/alessandro--diana/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/Alexperiments/Alexperiments/main/images/icons/linkedin.svg"
       alt="" height="30" width="40" /></a> 
   <a href="https://www.instagram.com/elatsuj/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/Alexperiments/Alexperiments/main/images/icons/instagram.svg"
+      alt="" height="30" width="40" /></a> 
+  <a href="https://huggingface.co/Alexperiments" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/Alexperiments/Alexperiments/main/images/icons/hugging-face.svg"
       alt="" height="30" width="40" /></a> 
 </p>
